@@ -16,10 +16,14 @@ function hasTargetSum(array, target) {
 
 /* 
   Write the Big O time complexity of your function here
+  0(n*2)
 */
 
 /* 
   Add your pseudocode here
+  iterate over the array
+  add idividual items
+  return true is the addition is equal to target
 */
 
 /*
